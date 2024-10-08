@@ -1,4 +1,4 @@
-# Recruitment Analysis Dashboard
+<img width="1440" alt="Screenshot 2024-10-08 at 10 22 06 PM" src="https://github.com/user-attachments/assets/e56cb6bb-2380-42d5-a5f8-f4366f01b281"># Recruitment Analysis Dashboard
 
 ## Overview
 
@@ -61,6 +61,7 @@ recruitment-analysis-app/
 ├── package.json
 └── tailwind.config.js
 ```
+
 
 
 
